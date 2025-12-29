@@ -1,5 +1,7 @@
 # customer-behaviour-analysis-data
 This project focuses on analyzing customer behavior using historical transaction data to uncover meaningful patterns and trends. The objective is to help businesses better understand customer purchasing habits, preferences, and engagement, enabling data-driven decisions to improve customer retention, sales strategies,
+
+
 🛠️ Data Cleaning & Transformation (Python)
 
 Python libraries NumPy and Pandas were used extensively for cleaning and transforming the raw dataset. Pandas was used to load and manipulate large datasets efficiently, while NumPy supported numerical operations and handling missing values. The cleaning process included removing duplicate records, handling null values, correcting data types, standardizing date formats, and creating derived columns such as total purchase value and purchase frequency. These transformations ensured the dataset was accurate, consistent, and ready for further analysis.
